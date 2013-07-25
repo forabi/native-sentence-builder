@@ -1,0 +1,1180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NZL API\n"
+"POT-Creation-Date: 2013-07-24 22:19+0200\n"
+"PO-Revision-Date: 2013-07-24 22:20+0200\n"
+"Last-Translator: Muhammad Fawwaz Orabi <mfawwaz93@gmail.com>\n"
+"Language-Team: NZL Translation Team <mfawwaz93@gmail.com>\n"
+"Language: ar_SY.UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Poedit-SearchPath-0: /var/www/nzl/api\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: /var/www/nzl/api/models/verbs.php:3 /var/www/nzl/api/models/verbs.php:4
+#: /var/www/nzl/api/models/verbs.php:5 /var/www/nzl/api/models/verbs.php:6
+#: /var/www/nzl/api/models/verbs.php:7 /var/www/nzl/api/models/verbs.php:8
+msgid "people_male_singular_invisible"
+msgid_plural "people_male_plural_invisible"
+msgstr[0] "ولا واحد"
+msgstr[1] "واحد آخر"
+msgstr[2] "اثنان آخران"
+msgstr[3] "%d آخرون"
+msgstr[4] "%d آخرون"
+msgstr[5] "%d آخرون"
+
+#: /var/www/nzl/api/models/verbs.php:10 /var/www/nzl/api/models/verbs.php:11
+#: /var/www/nzl/api/models/verbs.php:12 /var/www/nzl/api/models/verbs.php:13
+#: /var/www/nzl/api/models/verbs.php:14 /var/www/nzl/api/models/verbs.php:15
+msgid "people_female_singular_invisible"
+msgid_plural "people_female_plural_invisible"
+msgstr[0] "ولا واحدة"
+msgstr[1] "واحدة أخرى"
+msgstr[2] "اثنتان أخريان"
+msgstr[3] "%d أخريات"
+msgstr[4] "%d أخريات"
+msgstr[5] "%d أخريات"
+
+#: /var/www/nzl/api/models/verbs.php:17 /var/www/nzl/api/models/verbs.php:18
+#: /var/www/nzl/api/models/verbs.php:19 /var/www/nzl/api/models/verbs.php:20
+#: /var/www/nzl/api/models/verbs.php:21 /var/www/nzl/api/models/verbs.php:22
+msgid "people_male_singular_invisible_added"
+msgid_plural "people_male_plural_invisible_added"
+msgstr[0] "ولا واحد"
+msgstr[1] "واحد آخر"
+msgstr[2] "اثنين آخرين"
+msgstr[3] "%d آخرين"
+msgstr[4] "%d آخرين"
+msgstr[5] "%d آخرين"
+
+#: /var/www/nzl/api/models/verbs.php:24 /var/www/nzl/api/models/verbs.php:25
+#: /var/www/nzl/api/models/verbs.php:26 /var/www/nzl/api/models/verbs.php:27
+#: /var/www/nzl/api/models/verbs.php:28 /var/www/nzl/api/models/verbs.php:29
+msgid "people_female_singular_invisible_added"
+msgid_plural "people_female_plural_invisible_added"
+msgstr[0] "ولا واحدة"
+msgstr[1] "واحدة أخرى"
+msgstr[2] "اثنتين أخريين"
+msgstr[3] "%d أخريات"
+msgstr[4] "%d أخريات"
+msgstr[5] "%d أخريات"
+
+#: /var/www/nzl/api/models/verbs.php:32
+msgid "sentence_template_action_verb"
+msgstr "%action %people %object"
+
+#: /var/www/nzl/api/models/verbs.php:33
+msgid "sentence_template_action_noun"
+msgstr "%people %action %object"
+
+#: /var/www/nzl/api/models/verbs.php:34
+msgid "people_all_visible_template"
+msgstr "%people_visible"
+
+#: /var/www/nzl/api/models/verbs.php:35
+msgid "people_invisible_template"
+msgstr "%people_visible و%people_invisible"
+
+#: /var/www/nzl/api/models/verbs.php:36
+msgid "people_visible_delimiter_default"
+msgstr " و"
+
+#: /var/www/nzl/api/models/verbs.php:37
+msgid "people_visible_delimiter_last"
+msgstr " و"
+
+#: /var/www/nzl/api/models/verbs.php:41 /var/www/nzl/api/models/verbs.php:42
+#: /var/www/nzl/api/models/verbs.php:43 /var/www/nzl/api/models/verbs.php:44
+#: /var/www/nzl/api/models/verbs.php:45 /var/www/nzl/api/models/verbs.php:46
+msgid "you_singular_male"
+msgid_plural "you_plural_male"
+msgstr[0] "أنتَ"
+msgstr[1] "أنتَ"
+msgstr[2] "أنتما"
+msgstr[3] "أنتم"
+msgstr[4] "أنتم"
+msgstr[5] "أنتم"
+
+#: /var/www/nzl/api/models/verbs.php:48 /var/www/nzl/api/models/verbs.php:49
+#: /var/www/nzl/api/models/verbs.php:50 /var/www/nzl/api/models/verbs.php:51
+#: /var/www/nzl/api/models/verbs.php:52 /var/www/nzl/api/models/verbs.php:53
+msgid "you_singular_female"
+msgid_plural "you_plural_female"
+msgstr[0] "أنتِ"
+msgstr[1] "أنتِ"
+msgstr[2] "أنتما"
+msgstr[3] "أنتنّ"
+msgstr[4] "أنتنّ"
+msgstr[5] "أنتنّ"
+
+#: /var/www/nzl/api/models/verbs.php:55
+msgid "you_default_is_plural?"
+msgstr "0"
+
+#: /var/www/nzl/api/models/verbs.php:57
+msgid "action_part2_preceeded"
+msgstr "أن"
+
+#: /var/www/nzl/api/models/verbs.php:60
+msgid "verb_like_is_noun?"
+msgstr "1"
+
+#: /var/www/nzl/api/models/verbs.php:61
+msgid "verb_like_object_is_indirect?"
+msgstr "1"
+
+#: /var/www/nzl/api/models/verbs.php:62
+msgid "verb_like_object_preposition"
+msgstr "ب"
+
+#: /var/www/nzl/api/models/verbs.php:63
+msgid "verb_like_object_preposition_has_space"
+msgstr "0"
+
+#: /var/www/nzl/api/models/verbs.php:65 /var/www/nzl/api/models/verbs.php:67
+#: /var/www/nzl/api/models/verbs.php:69 /var/www/nzl/api/models/verbs.php:71
+#: /var/www/nzl/api/models/verbs.php:73 /var/www/nzl/api/models/verbs.php:75
+msgid "verb_like_subject_singular_female_object_male"
+msgid_plural "verb_like_subject_plural_female_object_male"
+msgstr[0] "معجبة"
+msgstr[1] "معجبة"
+msgstr[2] "معجبتان"
+msgstr[3] "معجبات"
+msgstr[4] "معجبات"
+msgstr[5] "معجبات"
+
+#: /var/www/nzl/api/models/verbs.php:66 /var/www/nzl/api/models/verbs.php:68
+#: /var/www/nzl/api/models/verbs.php:70 /var/www/nzl/api/models/verbs.php:72
+#: /var/www/nzl/api/models/verbs.php:74 /var/www/nzl/api/models/verbs.php:76
+msgid "verb_like_subject_singular_female_object_female"
+msgid_plural "verb_like_subject_plural_female_object_female"
+msgstr[0] "معجبة"
+msgstr[1] "معجبة"
+msgstr[2] "معجبتان"
+msgstr[3] "معجبات"
+msgstr[4] "معجبات"
+msgstr[5] "معجبات"
+
+#: /var/www/nzl/api/models/verbs.php:78 /var/www/nzl/api/models/verbs.php:80
+#: /var/www/nzl/api/models/verbs.php:82 /var/www/nzl/api/models/verbs.php:84
+#: /var/www/nzl/api/models/verbs.php:86 /var/www/nzl/api/models/verbs.php:88
+msgid "verb_like_subject_singular_male_object_male"
+msgid_plural "verb_like_subject_plural_male_object_male"
+msgstr[0] "معجب"
+msgstr[1] "معجب"
+msgstr[2] "معجبان"
+msgstr[3] "معجبون"
+msgstr[4] "معجبون"
+msgstr[5] "معجبون"
+
+#: /var/www/nzl/api/models/verbs.php:79 /var/www/nzl/api/models/verbs.php:81
+#: /var/www/nzl/api/models/verbs.php:83 /var/www/nzl/api/models/verbs.php:85
+#: /var/www/nzl/api/models/verbs.php:87 /var/www/nzl/api/models/verbs.php:89
+#: /var/www/nzl/api/models/verbs.php:147
+msgid "verb_like_subject_singular_male_object_female"
+msgid_plural "verb_like_subject_plural_male_object_female"
+msgstr[0] "معجب"
+msgstr[1] "معجب"
+msgstr[2] "معجبان"
+msgstr[3] "معجبون"
+msgstr[4] "معجبون"
+msgstr[5] "معجبون"
+
+#: /var/www/nzl/api/models/verbs.php:97 /var/www/nzl/api/models/verbs.php:99
+#: /var/www/nzl/api/models/verbs.php:101 /var/www/nzl/api/models/verbs.php:103
+#: /var/www/nzl/api/models/verbs.php:105 /var/www/nzl/api/models/verbs.php:107
+msgid "verb_commented_subject_singular_you_female_object_male"
+msgid_plural "verb_commented_subject_plural_you_female_object_male"
+msgstr[0] "علقتِ"
+msgstr[1] "علقتِ"
+msgstr[2] "علقتما"
+msgstr[3] "علقتنّ"
+msgstr[4] "علقتنّ"
+msgstr[5] "علقتنّ"
+
+#: /var/www/nzl/api/models/verbs.php:98 /var/www/nzl/api/models/verbs.php:100
+#: /var/www/nzl/api/models/verbs.php:102 /var/www/nzl/api/models/verbs.php:104
+#: /var/www/nzl/api/models/verbs.php:106 /var/www/nzl/api/models/verbs.php:108
+msgid "verb_commented_subject_singular_you_female_object_female"
+msgid_plural "verb_commented_subject_plural_you_female_object_female"
+msgstr[0] "علقتِ"
+msgstr[1] "علقتِ"
+msgstr[2] "علقتما"
+msgstr[3] "علقتنّ"
+msgstr[4] "علقتنّ"
+msgstr[5] "علقتنّ"
+
+#: /var/www/nzl/api/models/verbs.php:110 /var/www/nzl/api/models/verbs.php:112
+#: /var/www/nzl/api/models/verbs.php:114 /var/www/nzl/api/models/verbs.php:116
+#: /var/www/nzl/api/models/verbs.php:118 /var/www/nzl/api/models/verbs.php:120
+#: /var/www/nzl/api/models/verbs.php:231 /var/www/nzl/api/models/verbs.php:233
+#: /var/www/nzl/api/models/verbs.php:235 /var/www/nzl/api/models/verbs.php:237
+#: /var/www/nzl/api/models/verbs.php:239 /var/www/nzl/api/models/verbs.php:241
+msgid "verb_commented_subject_singular_you_male_object_male"
+msgid_plural "verb_commented_subject_plural_you_male_object_male"
+msgstr[0] "علقت"
+msgstr[1] "علقتَ"
+msgstr[2] "علقتما"
+msgstr[3] "علقتم"
+msgstr[4] "علقتم"
+msgstr[5] "علقتم"
+
+#: /var/www/nzl/api/models/verbs.php:111 /var/www/nzl/api/models/verbs.php:113
+#: /var/www/nzl/api/models/verbs.php:115 /var/www/nzl/api/models/verbs.php:117
+#: /var/www/nzl/api/models/verbs.php:119 /var/www/nzl/api/models/verbs.php:121
+#: /var/www/nzl/api/models/verbs.php:232 /var/www/nzl/api/models/verbs.php:234
+#: /var/www/nzl/api/models/verbs.php:236 /var/www/nzl/api/models/verbs.php:238
+#: /var/www/nzl/api/models/verbs.php:240 /var/www/nzl/api/models/verbs.php:242
+msgid "verb_commented_subject_singular_you_male_object_female"
+msgid_plural "verb_commented_subject_plural_you_male_object_female"
+msgstr[0] "علقتَ"
+msgstr[1] "علقتَ"
+msgstr[2] "علقتما"
+msgstr[3] "علقتم"
+msgstr[4] "علقتم"
+msgstr[5] "علقتم"
+
+#: /var/www/nzl/api/models/verbs.php:123 /var/www/nzl/api/models/verbs.php:125
+#: /var/www/nzl/api/models/verbs.php:127 /var/www/nzl/api/models/verbs.php:129
+#: /var/www/nzl/api/models/verbs.php:131 /var/www/nzl/api/models/verbs.php:133
+#: /var/www/nzl/api/models/verbs.php:218 /var/www/nzl/api/models/verbs.php:220
+#: /var/www/nzl/api/models/verbs.php:222 /var/www/nzl/api/models/verbs.php:224
+#: /var/www/nzl/api/models/verbs.php:226 /var/www/nzl/api/models/verbs.php:228
+#: /var/www/nzl/api/models/verbs.php:245 /var/www/nzl/api/models/verbs.php:247
+#: /var/www/nzl/api/models/verbs.php:249 /var/www/nzl/api/models/verbs.php:251
+#: /var/www/nzl/api/models/verbs.php:253 /var/www/nzl/api/models/verbs.php:255
+msgid "verb_commented_subject_singular_female_object_male"
+msgid_plural "verb_commented_subject_plural_female_object_male"
+msgstr[0] "علقتِ"
+msgstr[1] "علقتِ"
+msgstr[2] "علقتما"
+msgstr[3] "علقتنّ"
+msgstr[4] "علقتنّ"
+msgstr[5] "علقتنّ"
+
+#: /var/www/nzl/api/models/verbs.php:124 /var/www/nzl/api/models/verbs.php:126
+#: /var/www/nzl/api/models/verbs.php:128 /var/www/nzl/api/models/verbs.php:130
+#: /var/www/nzl/api/models/verbs.php:132 /var/www/nzl/api/models/verbs.php:134
+#: /var/www/nzl/api/models/verbs.php:219 /var/www/nzl/api/models/verbs.php:221
+#: /var/www/nzl/api/models/verbs.php:223 /var/www/nzl/api/models/verbs.php:225
+#: /var/www/nzl/api/models/verbs.php:227 /var/www/nzl/api/models/verbs.php:229
+#: /var/www/nzl/api/models/verbs.php:246 /var/www/nzl/api/models/verbs.php:248
+#: /var/www/nzl/api/models/verbs.php:250 /var/www/nzl/api/models/verbs.php:252
+#: /var/www/nzl/api/models/verbs.php:254 /var/www/nzl/api/models/verbs.php:256
+msgid "verb_commented_subject_singular_female_object_female"
+msgid_plural "verb_commented_subject_plural_female_object_female"
+msgstr[0] "علقتِ"
+msgstr[1] "علقتِ"
+msgstr[2] "علقتما"
+msgstr[3] "علقتنّ"
+msgstr[4] "علقتنّ"
+msgstr[5] "علقتنّ"
+
+#: /var/www/nzl/api/models/verbs.php:136 /var/www/nzl/api/models/verbs.php:138
+#: /var/www/nzl/api/models/verbs.php:140 /var/www/nzl/api/models/verbs.php:142
+#: /var/www/nzl/api/models/verbs.php:144 /var/www/nzl/api/models/verbs.php:146
+#: /var/www/nzl/api/models/verbs.php:258 /var/www/nzl/api/models/verbs.php:260
+#: /var/www/nzl/api/models/verbs.php:262 /var/www/nzl/api/models/verbs.php:264
+#: /var/www/nzl/api/models/verbs.php:266 /var/www/nzl/api/models/verbs.php:268
+msgid "verb_commented_subject_singular_male_object_male"
+msgid_plural "verb_commented_subject_plural_male_object_male"
+msgstr[0] "علق"
+msgstr[1] "علق"
+msgstr[2] "علقا"
+msgstr[3] "علقوا"
+msgstr[4] "علقوا"
+msgstr[5] "علقوا"
+
+#: /var/www/nzl/api/models/verbs.php:137 /var/www/nzl/api/models/verbs.php:139
+#: /var/www/nzl/api/models/verbs.php:141 /var/www/nzl/api/models/verbs.php:143
+#: /var/www/nzl/api/models/verbs.php:145 /var/www/nzl/api/models/verbs.php:259
+#: /var/www/nzl/api/models/verbs.php:261 /var/www/nzl/api/models/verbs.php:263
+#: /var/www/nzl/api/models/verbs.php:265 /var/www/nzl/api/models/verbs.php:267
+#: /var/www/nzl/api/models/verbs.php:269
+msgid "verb_commented_subject_singular_male_object_female"
+msgid_plural "verb_commented_subject_plural_male_object_female"
+msgstr[0] "علق"
+msgstr[1] "علق"
+msgstr[2] "علقا"
+msgstr[3] "علقوا"
+msgstr[4] "علقوا"
+msgstr[5] "علقوا"
+
+#: /var/www/nzl/api/models/verbs.php:155 /var/www/nzl/api/models/verbs.php:157
+#: /var/www/nzl/api/models/verbs.php:159 /var/www/nzl/api/models/verbs.php:161
+#: /var/www/nzl/api/models/verbs.php:163 /var/www/nzl/api/models/verbs.php:165
+msgid "verb_logged_subject_singular_you_female_object_male"
+msgid_plural "verb_logged_subject_plural_you_female_object_male"
+msgstr[0] "سجلتِ"
+msgstr[1] "سجلتِ"
+msgstr[2] "سجلتما"
+msgstr[3] "سجلتنّ"
+msgstr[4] "سجلتنّ"
+msgstr[5] "سجلتنّ"
+
+#: /var/www/nzl/api/models/verbs.php:156 /var/www/nzl/api/models/verbs.php:158
+#: /var/www/nzl/api/models/verbs.php:160 /var/www/nzl/api/models/verbs.php:162
+#: /var/www/nzl/api/models/verbs.php:164 /var/www/nzl/api/models/verbs.php:166
+msgid "verb_logged_subject_singular_you_female_object_female"
+msgid_plural "verb_logged_subject_plural_you_female_object_female"
+msgstr[0] "سجلتِ"
+msgstr[1] "سجلتِ"
+msgstr[2] "سجلتما"
+msgstr[3] "سجلتنّ"
+msgstr[4] "سجلتنّ"
+msgstr[5] "سجلتنّ"
+
+#: /var/www/nzl/api/models/verbs.php:168 /var/www/nzl/api/models/verbs.php:170
+#: /var/www/nzl/api/models/verbs.php:172 /var/www/nzl/api/models/verbs.php:174
+#: /var/www/nzl/api/models/verbs.php:176 /var/www/nzl/api/models/verbs.php:178
+msgid "verb_logged_subject_singular_you_male_object_male"
+msgid_plural "verb_logged_subject_plural_you_male_object_male"
+msgstr[0] "سجلتَ"
+msgstr[1] "سجلتَ"
+msgstr[2] "سجلتما"
+msgstr[3] "سجلتم"
+msgstr[4] "سجلتم"
+msgstr[5] "سجلتم"
+
+#: /var/www/nzl/api/models/verbs.php:169 /var/www/nzl/api/models/verbs.php:171
+#: /var/www/nzl/api/models/verbs.php:173 /var/www/nzl/api/models/verbs.php:175
+#: /var/www/nzl/api/models/verbs.php:177 /var/www/nzl/api/models/verbs.php:179
+msgid "verb_logged_subject_singular_you_male_object_female"
+msgid_plural "verb_logged_subject_plural_you_male_object_female"
+msgstr[0] "سجلتَ"
+msgstr[1] "سجلتَ"
+msgstr[2] "سجلتما"
+msgstr[3] "سجلتم"
+msgstr[4] "سجلتم"
+msgstr[5] "سجلتم"
+
+#: /var/www/nzl/api/models/verbs.php:182 /var/www/nzl/api/models/verbs.php:184
+#: /var/www/nzl/api/models/verbs.php:186 /var/www/nzl/api/models/verbs.php:188
+#: /var/www/nzl/api/models/verbs.php:190 /var/www/nzl/api/models/verbs.php:192
+msgid "verb_logged_subject_singular_female_object_male"
+msgid_plural "verb_logged_subject_plural_female_object_male"
+msgstr[0] "سجلت"
+msgstr[1] "سجلت"
+msgstr[2] "سجلتا"
+msgstr[3] "سجلن"
+msgstr[4] "سجلن"
+msgstr[5] "سجلن"
+
+#: /var/www/nzl/api/models/verbs.php:183 /var/www/nzl/api/models/verbs.php:185
+#: /var/www/nzl/api/models/verbs.php:187 /var/www/nzl/api/models/verbs.php:189
+#: /var/www/nzl/api/models/verbs.php:191 /var/www/nzl/api/models/verbs.php:193
+msgid "verb_logged_subject_singular_female_object_female"
+msgid_plural "verb_logged_subject_plural_female_object_female"
+msgstr[0] "سجلت"
+msgstr[1] "سجلت"
+msgstr[2] "سجلا"
+msgstr[3] "سجلن"
+msgstr[4] "سجلن"
+msgstr[5] "سجلن"
+
+#: /var/www/nzl/api/models/verbs.php:195 /var/www/nzl/api/models/verbs.php:197
+#: /var/www/nzl/api/models/verbs.php:199 /var/www/nzl/api/models/verbs.php:201
+#: /var/www/nzl/api/models/verbs.php:203 /var/www/nzl/api/models/verbs.php:205
+msgid "verb_logged_subject_singular_male_object_male"
+msgid_plural "verb_logged_subject_plural_male_object_male"
+msgstr[0] "سجل"
+msgstr[1] "سجل"
+msgstr[2] "سجلا"
+msgstr[3] "سجلوا"
+msgstr[4] "سجلوا"
+msgstr[5] "سجلوا"
+
+#: /var/www/nzl/api/models/verbs.php:196 /var/www/nzl/api/models/verbs.php:198
+#: /var/www/nzl/api/models/verbs.php:200 /var/www/nzl/api/models/verbs.php:202
+#: /var/www/nzl/api/models/verbs.php:204 /var/www/nzl/api/models/verbs.php:206
+msgid "verb_logged_subject_singular_male_object_female"
+msgid_plural "verb_logged_subject_plural_male_object_female"
+msgstr[0] "سجل"
+msgstr[1] "سجل"
+msgstr[2] "سجلا"
+msgstr[3] "سجلوا"
+msgstr[4] "سجلوا"
+msgstr[5] "سجلوا"
+
+#: /var/www/nzl/api/models/verbs.php:214
+msgid "verb_commented_object_is_indirect?"
+msgstr "1"
+
+#: /var/www/nzl/api/models/verbs.php:215
+msgid "verb_commented_object_preposition"
+msgstr "على"
+
+#: /var/www/nzl/api/models/verbs.php:216
+msgid "verb_commented_object_preposition_has_space"
+msgstr "1"
+
+#: /var/www/nzl/api/models/verbs.php:275
+msgid "verb_became_object_is_indirect?"
+msgstr "0"
+
+#: /var/www/nzl/api/models/verbs.php:276
+msgid "verb_became_object_preposition"
+msgstr " "
+
+#: /var/www/nzl/api/models/verbs.php:277
+msgid "verb_became_object_preposition_has_space"
+msgstr "0"
+
+#: /var/www/nzl/api/models/verbs.php:279 /var/www/nzl/api/models/verbs.php:281
+#: /var/www/nzl/api/models/verbs.php:283 /var/www/nzl/api/models/verbs.php:285
+#: /var/www/nzl/api/models/verbs.php:287 /var/www/nzl/api/models/verbs.php:289
+msgid "verb_became_subject_singular_female_object_male"
+msgid_plural "verb_became_subject_plural_female_object_male"
+msgstr[0] "أصبحت"
+msgstr[1] "أصبحت"
+msgstr[2] "أصبحتا"
+msgstr[3] "أصبحن"
+msgstr[4] "أصبحن"
+msgstr[5] "أصبحن"
+
+#: /var/www/nzl/api/models/verbs.php:280 /var/www/nzl/api/models/verbs.php:282
+#: /var/www/nzl/api/models/verbs.php:284 /var/www/nzl/api/models/verbs.php:286
+#: /var/www/nzl/api/models/verbs.php:288 /var/www/nzl/api/models/verbs.php:290
+msgid "verb_became_subject_singular_female_object_female"
+msgid_plural "verb_became_subject_plural_female_object_female"
+msgstr[0] "أصبحت"
+msgstr[1] "أصبحت"
+msgstr[2] "أصبحتا"
+msgstr[3] "أصبحن"
+msgstr[4] "أصبحن"
+msgstr[5] "أصبحن"
+
+#: /var/www/nzl/api/models/verbs.php:292 /var/www/nzl/api/models/verbs.php:294
+#: /var/www/nzl/api/models/verbs.php:296 /var/www/nzl/api/models/verbs.php:298
+#: /var/www/nzl/api/models/verbs.php:300 /var/www/nzl/api/models/verbs.php:302
+msgid "verb_became_subject_singular_male_object_male"
+msgid_plural "verb_became_subject_plural_male_object_male"
+msgstr[0] "أصبح"
+msgstr[1] "أصبح"
+msgstr[2] "أصبحا"
+msgstr[3] "أصبحوا"
+msgstr[4] "أصبحوا"
+msgstr[5] "أصبحوا"
+
+#: /var/www/nzl/api/models/verbs.php:293 /var/www/nzl/api/models/verbs.php:295
+#: /var/www/nzl/api/models/verbs.php:297 /var/www/nzl/api/models/verbs.php:299
+#: /var/www/nzl/api/models/verbs.php:301 /var/www/nzl/api/models/verbs.php:303
+msgid "verb_became_subject_singular_male_object_female"
+msgid_plural "verb_became_subject_plural_male_object_female"
+msgstr[0] "أصبح"
+msgstr[1] "أصبح"
+msgstr[2] "أصبحا"
+msgstr[3] "أصبحوا"
+msgstr[4] "أصبحوا"
+msgstr[5] "أصبحوا"
+
+#: /var/www/nzl/api/models/verbs.php:311 /var/www/nzl/api/models/verbs.php:313
+#: /var/www/nzl/api/models/verbs.php:315 /var/www/nzl/api/models/verbs.php:317
+#: /var/www/nzl/api/models/verbs.php:319 /var/www/nzl/api/models/verbs.php:321
+msgid "verb_saw_subject_singular_you_female_object_male"
+msgid_plural "verb_saw_subject_plural_you_female_object_male"
+msgstr[0] "شاهدتِ"
+msgstr[1] "شاهدتِ"
+msgstr[2] "شاهدتما"
+msgstr[3] "شاهدتن"
+msgstr[4] "شاهدتن"
+msgstr[5] "شاهدتن"
+
+#: /var/www/nzl/api/models/verbs.php:312 /var/www/nzl/api/models/verbs.php:314
+#: /var/www/nzl/api/models/verbs.php:316 /var/www/nzl/api/models/verbs.php:318
+#: /var/www/nzl/api/models/verbs.php:320 /var/www/nzl/api/models/verbs.php:322
+msgid "verb_saw_subject_singular_you_female_object_female"
+msgid_plural "verb_saw_subject_plural_you_female_object_female"
+msgstr[0] "شاهدتِ"
+msgstr[1] "شاهدتِ"
+msgstr[2] "شاهدتما"
+msgstr[3] "شاهدتن"
+msgstr[4] "شاهدتن"
+msgstr[5] "شاهدتن"
+
+#: /var/www/nzl/api/models/verbs.php:324 /var/www/nzl/api/models/verbs.php:326
+#: /var/www/nzl/api/models/verbs.php:328 /var/www/nzl/api/models/verbs.php:330
+#: /var/www/nzl/api/models/verbs.php:332 /var/www/nzl/api/models/verbs.php:334
+msgid "verb_saw_subject_singular_you_male_object_male"
+msgid_plural "verb_saw_subject_plural_you_male_object_male"
+msgstr[0] "شاهدتَ"
+msgstr[1] "شاهدتَ"
+msgstr[2] "شاهدتما"
+msgstr[3] "شاهدتم"
+msgstr[4] "شاهدتم"
+msgstr[5] "شاهدتم"
+
+#: /var/www/nzl/api/models/verbs.php:325 /var/www/nzl/api/models/verbs.php:327
+#: /var/www/nzl/api/models/verbs.php:329 /var/www/nzl/api/models/verbs.php:331
+#: /var/www/nzl/api/models/verbs.php:333 /var/www/nzl/api/models/verbs.php:335
+msgid "verb_saw_subject_singular_you_male_object_female"
+msgid_plural "verb_saw_subject_plural_you_male_object_female"
+msgstr[0] "شاهدتَ"
+msgstr[1] "شاهدتَ"
+msgstr[2] "شاهدتما"
+msgstr[3] "شاهدتم"
+msgstr[4] "شاهدتم"
+msgstr[5] "شاهدتم"
+
+#: /var/www/nzl/api/models/verbs.php:338 /var/www/nzl/api/models/verbs.php:340
+#: /var/www/nzl/api/models/verbs.php:342 /var/www/nzl/api/models/verbs.php:344
+#: /var/www/nzl/api/models/verbs.php:346 /var/www/nzl/api/models/verbs.php:348
+msgid "verb_saw_subject_singular_female_object_male"
+msgid_plural "verb_saw_subject_plural_female_object_male"
+msgstr[0] "شاهدت"
+msgstr[1] "شاهدت"
+msgstr[2] "شاهدتا"
+msgstr[3] "شاهدن"
+msgstr[4] "شاهدن"
+msgstr[5] "شاهدن"
+
+#: /var/www/nzl/api/models/verbs.php:339 /var/www/nzl/api/models/verbs.php:341
+#: /var/www/nzl/api/models/verbs.php:343 /var/www/nzl/api/models/verbs.php:345
+#: /var/www/nzl/api/models/verbs.php:347 /var/www/nzl/api/models/verbs.php:349
+msgid "verb_saw_subject_singular_female_object_female"
+msgid_plural "verb_saw_subject_plural_female_object_female"
+msgstr[0] "شاهدت"
+msgstr[1] "شاهدت"
+msgstr[2] "شاهدتا"
+msgstr[3] "شاهدن"
+msgstr[4] "شاهدن"
+msgstr[5] "شاهدن"
+
+#: /var/www/nzl/api/models/verbs.php:351 /var/www/nzl/api/models/verbs.php:353
+#: /var/www/nzl/api/models/verbs.php:355 /var/www/nzl/api/models/verbs.php:357
+#: /var/www/nzl/api/models/verbs.php:359 /var/www/nzl/api/models/verbs.php:361
+msgid "verb_saw_subject_singular_male_object_male"
+msgid_plural "verb_saw_subject_plural_male_object_male"
+msgstr[0] "شاهد"
+msgstr[1] "شاهد"
+msgstr[2] "شاهدا"
+msgstr[3] "شاهدوا"
+msgstr[4] "شاهدوا"
+msgstr[5] "شاهدوا"
+
+#: /var/www/nzl/api/models/verbs.php:352 /var/www/nzl/api/models/verbs.php:354
+#: /var/www/nzl/api/models/verbs.php:356 /var/www/nzl/api/models/verbs.php:358
+#: /var/www/nzl/api/models/verbs.php:360 /var/www/nzl/api/models/verbs.php:362
+msgid "verb_saw_subject_singular_male_object_female"
+msgid_plural "verb_saw_subject_plural_male_object_female"
+msgstr[0] "شاهد"
+msgstr[1] "شاهد"
+msgstr[2] "شاهدا"
+msgstr[3] "شاهدوا"
+msgstr[4] "شاهدوا"
+msgstr[5] "شاهدوا"
+
+#: /var/www/nzl/api/models/verbs.php:369 /var/www/nzl/api/models/verbs.php:371
+#: /var/www/nzl/api/models/verbs.php:373 /var/www/nzl/api/models/verbs.php:375
+#: /var/www/nzl/api/models/verbs.php:377 /var/www/nzl/api/models/verbs.php:379
+msgid "verb_requested_subject_singular_you_female_object_male"
+msgid_plural "verb_requested_subject_plural_you_female_object_male"
+msgstr[0] "طلبتِ"
+msgstr[1] "طلبتِ"
+msgstr[2] "طلبتما"
+msgstr[3] "طلبتنّ"
+msgstr[4] "طلبتنّ"
+msgstr[5] "طلبتنّ"
+
+#: /var/www/nzl/api/models/verbs.php:370 /var/www/nzl/api/models/verbs.php:372
+#: /var/www/nzl/api/models/verbs.php:374 /var/www/nzl/api/models/verbs.php:376
+#: /var/www/nzl/api/models/verbs.php:378 /var/www/nzl/api/models/verbs.php:380
+msgid "verb_requested_subject_singular_you_female_object_female"
+msgid_plural "verb_requested_subject_plural_you_female_object_female"
+msgstr[0] "طلبتِ"
+msgstr[1] "طلبتِ"
+msgstr[2] "طلبتما"
+msgstr[3] "طلبتنّ"
+msgstr[4] "طلبتنّ"
+msgstr[5] "طلبتنّ"
+
+#: /var/www/nzl/api/models/verbs.php:382 /var/www/nzl/api/models/verbs.php:384
+#: /var/www/nzl/api/models/verbs.php:386 /var/www/nzl/api/models/verbs.php:388
+#: /var/www/nzl/api/models/verbs.php:390 /var/www/nzl/api/models/verbs.php:392
+msgid "verb_requested_subject_singular_you_male_object_male"
+msgid_plural "verb_requested_subject_plural_you_male_object_male"
+msgstr[0] "طلبتَ"
+msgstr[1] "طلبتَ"
+msgstr[2] "طلبتما"
+msgstr[3] "طلبتم"
+msgstr[4] "طلبتم"
+msgstr[5] "طلبتم"
+
+#: /var/www/nzl/api/models/verbs.php:383 /var/www/nzl/api/models/verbs.php:385
+#: /var/www/nzl/api/models/verbs.php:387 /var/www/nzl/api/models/verbs.php:389
+#: /var/www/nzl/api/models/verbs.php:391 /var/www/nzl/api/models/verbs.php:393
+msgid "verb_requested_subject_singular_you_male_object_female"
+msgid_plural "verb_requested_subject_plural_you_male_object_female"
+msgstr[0] "طلبتَ"
+msgstr[1] "طلبتَ"
+msgstr[2] "طلبتما"
+msgstr[3] "طلبتم"
+msgstr[4] "طلبتم"
+msgstr[5] "طلبتم"
+
+#: /var/www/nzl/api/models/verbs.php:396 /var/www/nzl/api/models/verbs.php:398
+#: /var/www/nzl/api/models/verbs.php:400 /var/www/nzl/api/models/verbs.php:402
+#: /var/www/nzl/api/models/verbs.php:404 /var/www/nzl/api/models/verbs.php:406
+msgid "verb_requested_subject_singular_female_object_male"
+msgid_plural "verb_requested_subject_plural_female_object_male"
+msgstr[0] "طلبت"
+msgstr[1] "طلبت"
+msgstr[2] "طلبتا"
+msgstr[3] "طلبتنّ"
+msgstr[4] "طلبتنّ"
+msgstr[5] "طلبتنّ"
+
+#: /var/www/nzl/api/models/verbs.php:397 /var/www/nzl/api/models/verbs.php:399
+#: /var/www/nzl/api/models/verbs.php:401 /var/www/nzl/api/models/verbs.php:403
+#: /var/www/nzl/api/models/verbs.php:405 /var/www/nzl/api/models/verbs.php:407
+msgid "verb_requested_subject_singular_female_object_female"
+msgid_plural "verb_requested_subject_plural_female_object_female"
+msgstr[0] "طلبت"
+msgstr[1] "طلبت"
+msgstr[2] "طلبتا"
+msgstr[3] "طلبتنّ"
+msgstr[4] "طلبتنّ"
+msgstr[5] "طلبتنّ"
+
+#: /var/www/nzl/api/models/verbs.php:409 /var/www/nzl/api/models/verbs.php:411
+#: /var/www/nzl/api/models/verbs.php:413 /var/www/nzl/api/models/verbs.php:415
+#: /var/www/nzl/api/models/verbs.php:417 /var/www/nzl/api/models/verbs.php:419
+msgid "verb_requested_subject_singular_male_object_male"
+msgid_plural "verb_requested_subject_plural_male_object_male"
+msgstr[0] "طلب"
+msgstr[1] "طلب"
+msgstr[2] "طلبتما"
+msgstr[3] "طلبوا"
+msgstr[4] "طلبوا"
+msgstr[5] "طلبوا"
+
+#: /var/www/nzl/api/models/verbs.php:410 /var/www/nzl/api/models/verbs.php:412
+#: /var/www/nzl/api/models/verbs.php:414 /var/www/nzl/api/models/verbs.php:416
+#: /var/www/nzl/api/models/verbs.php:418 /var/www/nzl/api/models/verbs.php:420
+msgid "verb_requested_subject_singular_male_object_female"
+msgid_plural "verb_requested_subject_plural_male_object_female"
+msgstr[0] "طلب"
+msgstr[1] "طلب"
+msgstr[2] "طلبتما"
+msgstr[3] "طلبوا"
+msgstr[4] "طلبوا"
+msgstr[5] "طلبوا"
+
+#: /var/www/nzl/api/models/verbs.php:426
+msgid "verb_become_object_is_indirect?"
+msgstr "0"
+
+#: /var/www/nzl/api/models/verbs.php:427
+msgid "verb_become_object_preposition"
+msgstr " "
+
+#: /var/www/nzl/api/models/verbs.php:428
+msgid "verb_become_object_preposition_has_space"
+msgstr "0"
+
+#: /var/www/nzl/api/models/verbs.php:430 /var/www/nzl/api/models/verbs.php:432
+#: /var/www/nzl/api/models/verbs.php:434 /var/www/nzl/api/models/verbs.php:436
+#: /var/www/nzl/api/models/verbs.php:438 /var/www/nzl/api/models/verbs.php:440
+msgid "verb_become_subject_singular_female_object_male"
+msgid_plural "verb_become_subject_plural_female_object_male"
+msgstr[0] "تصبح"
+msgstr[1] "تصبح"
+msgstr[2] "تصبحا"
+msgstr[3] "تصبحن"
+msgstr[4] "تصبحن"
+msgstr[5] "تصبحن"
+
+#: /var/www/nzl/api/models/verbs.php:431 /var/www/nzl/api/models/verbs.php:433
+#: /var/www/nzl/api/models/verbs.php:435 /var/www/nzl/api/models/verbs.php:437
+#: /var/www/nzl/api/models/verbs.php:439 /var/www/nzl/api/models/verbs.php:441
+msgid "verb_become_subject_singular_female_object_female"
+msgid_plural "verb_become_subject_plural_female_object_female"
+msgstr[0] "تصبح"
+msgstr[1] "تصبح"
+msgstr[2] "تصبحا"
+msgstr[3] "تصبحن"
+msgstr[4] "تصبحن"
+msgstr[5] "تصبحن"
+
+#: /var/www/nzl/api/models/verbs.php:443 /var/www/nzl/api/models/verbs.php:445
+#: /var/www/nzl/api/models/verbs.php:447 /var/www/nzl/api/models/verbs.php:449
+#: /var/www/nzl/api/models/verbs.php:451 /var/www/nzl/api/models/verbs.php:453
+msgid "verb_become_subject_singular_male_object_male"
+msgid_plural "verb_become_subject_plural_male_object_male"
+msgstr[0] "يصبح"
+msgstr[1] "يصبح"
+msgstr[2] "يصبحا"
+msgstr[3] "يصبحوا"
+msgstr[4] "يصبحوا"
+msgstr[5] "يصبحوا"
+
+#: /var/www/nzl/api/models/verbs.php:444 /var/www/nzl/api/models/verbs.php:446
+#: /var/www/nzl/api/models/verbs.php:448 /var/www/nzl/api/models/verbs.php:450
+#: /var/www/nzl/api/models/verbs.php:452 /var/www/nzl/api/models/verbs.php:454
+msgid "verb_become_subject_singular_male_object_female"
+msgid_plural "verb_become_subject_plural_male_object_female"
+msgstr[0] "يصبح"
+msgstr[1] "يصبح"
+msgstr[2] "يصبحا"
+msgstr[3] "يصبحوا"
+msgstr[4] "يصبحوا"
+msgstr[5] "يصبحوا"
+
+#: /var/www/nzl/api/models/verbs.php:461
+msgid "object_activity_is_female?"
+msgstr "0"
+
+#: /var/www/nzl/api/models/verbs.php:463 /var/www/nzl/api/models/verbs.php:464
+#: /var/www/nzl/api/models/verbs.php:465 /var/www/nzl/api/models/verbs.php:466
+#: /var/www/nzl/api/models/verbs.php:467 /var/www/nzl/api/models/verbs.php:468
+msgid "object_activity_singular_subject_female"
+msgid_plural "object_activity_plural_subject_female"
+msgstr[0] "نشاط %people"
+msgstr[1] "نشاط %people"
+msgstr[2] "نشاطي %people"
+msgstr[3] "نشاطات %people"
+msgstr[4] "نشاطات %people"
+msgstr[5] "نشاطات %people"
+
+#: /var/www/nzl/api/models/verbs.php:470 /var/www/nzl/api/models/verbs.php:471
+#: /var/www/nzl/api/models/verbs.php:472 /var/www/nzl/api/models/verbs.php:473
+#: /var/www/nzl/api/models/verbs.php:474 /var/www/nzl/api/models/verbs.php:475
+msgid "object_activity_singular_subject_male"
+msgid_plural "object_activity_plural_subject_male"
+msgstr[0] "نشاط %people"
+msgstr[1] "نشاط %people"
+msgstr[2] "نشاطي %people"
+msgstr[3] "نشاطات %people"
+msgstr[4] "نشاطات %people"
+msgstr[5] "نشاطات %people"
+
+#: /var/www/nzl/api/models/verbs.php:477 /var/www/nzl/api/models/verbs.php:478
+#: /var/www/nzl/api/models/verbs.php:479 /var/www/nzl/api/models/verbs.php:480
+#: /var/www/nzl/api/models/verbs.php:481 /var/www/nzl/api/models/verbs.php:482
+msgid "object_activity_singular_subject_you_female"
+msgid_plural "object_activity_plural_subject_you_female"
+msgstr[0] "نشاطك"
+msgstr[1] "نشاطك"
+msgstr[2] "نشاطيكما"
+msgstr[3] "نشاطاتكم"
+msgstr[4] "نشاطاتكم"
+msgstr[5] "نشاطاتكم"
+
+#: /var/www/nzl/api/models/verbs.php:484 /var/www/nzl/api/models/verbs.php:485
+#: /var/www/nzl/api/models/verbs.php:486 /var/www/nzl/api/models/verbs.php:487
+#: /var/www/nzl/api/models/verbs.php:488 /var/www/nzl/api/models/verbs.php:489
+msgid "object_activity_singular_subject_you_male"
+msgid_plural "object_activity_plural_subject_you_male"
+msgstr[0] "نشاطك"
+msgstr[1] "نشاطك"
+msgstr[2] "نشاطيكما"
+msgstr[3] "نشاطاتكم"
+msgstr[4] "نشاطاتكم"
+msgstr[5] "نشاطاتكم"
+
+#: /var/www/nzl/api/models/verbs.php:496
+msgid "object_friend_is_female?"
+msgstr "-1"
+
+#: /var/www/nzl/api/models/verbs.php:498 /var/www/nzl/api/models/verbs.php:499
+#: /var/www/nzl/api/models/verbs.php:500 /var/www/nzl/api/models/verbs.php:501
+#: /var/www/nzl/api/models/verbs.php:502 /var/www/nzl/api/models/verbs.php:503
+msgid "object_friend_singular_subject_female"
+msgid_plural "object_friend_plural_subject_female"
+msgstr[0] "صديقةً"
+msgstr[1] "صديقةً"
+msgstr[2] "صديقتين"
+msgstr[3] "صديقات"
+msgstr[4] "صديقات"
+msgstr[5] "صديقات"
+
+#: /var/www/nzl/api/models/verbs.php:505 /var/www/nzl/api/models/verbs.php:506
+#: /var/www/nzl/api/models/verbs.php:507 /var/www/nzl/api/models/verbs.php:508
+#: /var/www/nzl/api/models/verbs.php:509 /var/www/nzl/api/models/verbs.php:510
+msgid "object_friend_singular_subject_male"
+msgid_plural "object_friend_plural_subject_male"
+msgstr[0] "صديقًا"
+msgstr[1] "صديقًا"
+msgstr[2] "صديقين"
+msgstr[3] "أصدقاء"
+msgstr[4] "أصدقاء"
+msgstr[5] "أصدقاء"
+
+#: /var/www/nzl/api/models/verbs.php:513 /var/www/nzl/api/models/verbs.php:514
+#: /var/www/nzl/api/models/verbs.php:515 /var/www/nzl/api/models/verbs.php:516
+#: /var/www/nzl/api/models/verbs.php:517 /var/www/nzl/api/models/verbs.php:518
+msgid "object_friend_singular_subject_female_has_object"
+msgid_plural "object_friend_plural_subject_female_has_object"
+msgstr[0] "صديقةً ل%people"
+msgstr[1] "صديقةً ل%people"
+msgstr[2] "صديقتين ل%people"
+msgstr[3] "صديقات ل%people"
+msgstr[4] "صديقات ل%people"
+msgstr[5] "صديقات ل%people"
+
+#: /var/www/nzl/api/models/verbs.php:520 /var/www/nzl/api/models/verbs.php:521
+#: /var/www/nzl/api/models/verbs.php:522 /var/www/nzl/api/models/verbs.php:523
+#: /var/www/nzl/api/models/verbs.php:524 /var/www/nzl/api/models/verbs.php:525
+msgid "object_friend_singular_subject_male_has_object"
+msgid_plural "object_friend_plural_subject_male"
+msgstr[0] "صديقًا ل%people"
+msgstr[1] "صديقًا ل%people"
+msgstr[2] "صديقين ل%people"
+msgstr[3] "أصدقاء ل%people"
+msgstr[4] "أصدقاء ل%people"
+msgstr[5] "أصدقاء ل%people"
+
+#: /var/www/nzl/api/models/verbs.php:531
+msgid "object_friendship_is_female?"
+msgstr "0"
+
+#: /var/www/nzl/api/models/verbs.php:533 /var/www/nzl/api/models/verbs.php:534
+#: /var/www/nzl/api/models/verbs.php:535 /var/www/nzl/api/models/verbs.php:536
+#: /var/www/nzl/api/models/verbs.php:537 /var/www/nzl/api/models/verbs.php:538
+msgid "object_friendship_singular_subject_female"
+msgid_plural "object_friendship_plural_subject_female"
+msgstr[0] "صداقة %people"
+msgstr[1] "صداقة %people"
+msgstr[2] "صداقة %people"
+msgstr[3] "صداقة %people"
+msgstr[4] "صداقة %people"
+msgstr[5] "صداقة %people"
+
+#: /var/www/nzl/api/models/verbs.php:540 /var/www/nzl/api/models/verbs.php:541
+#: /var/www/nzl/api/models/verbs.php:542 /var/www/nzl/api/models/verbs.php:543
+#: /var/www/nzl/api/models/verbs.php:544 /var/www/nzl/api/models/verbs.php:545
+msgid "object_friendship_singular_subject_male"
+msgid_plural "object_friendship_plural_subject_male"
+msgstr[0] "صداقة %people"
+msgstr[1] "صداقة %people"
+msgstr[2] "صداقة %people"
+msgstr[3] "صداقة %people"
+msgstr[4] "صداقة %people"
+msgstr[5] "صداقة %people"
+
+#: /var/www/nzl/api/models/verbs.php:547 /var/www/nzl/api/models/verbs.php:548
+#: /var/www/nzl/api/models/verbs.php:549 /var/www/nzl/api/models/verbs.php:550
+#: /var/www/nzl/api/models/verbs.php:551 /var/www/nzl/api/models/verbs.php:552
+msgid "object_friendship_singular_subject_you_female"
+msgid_plural "object_friendship_plural_subject_you_female"
+msgstr[0] "صداقتكِ"
+msgstr[1] "صداقتكِ"
+msgstr[2] "صداقتكما"
+msgstr[3] "صداقتكن"
+msgstr[4] "صداقتكن"
+msgstr[5] "صداقتكن"
+
+#: /var/www/nzl/api/models/verbs.php:554 /var/www/nzl/api/models/verbs.php:555
+#: /var/www/nzl/api/models/verbs.php:556 /var/www/nzl/api/models/verbs.php:557
+#: /var/www/nzl/api/models/verbs.php:558 /var/www/nzl/api/models/verbs.php:559
+msgid "object_friendship_singular_subject_you_male"
+msgid_plural "object_friendship_plural_subject_you_male"
+msgstr[0] "صداقتكَ"
+msgstr[1] "صداقتكَ"
+msgstr[2] "صداقتكما"
+msgstr[3] "صداقتكم"
+msgstr[4] "صداقتكم"
+msgstr[5] "صداقتكم"
+
+#~ msgid "object_friend_singular_subject_you_male"
+#~ msgid_plural "object_friend_plural_subject_you_male"
+#~ msgstr[0] "صداقتك"
+#~ msgstr[1] "صداقتك"
+#~ msgstr[2] "صداقتكما"
+#~ msgstr[3] "صداقتكم"
+#~ msgstr[4] "صداقتكم"
+#~ msgstr[5] "صداقتكم"
+
+#~ msgid "object_friend_singular_female_subject_you_female"
+#~ msgid_plural "object_friend_plural_female_subject_you_female"
+#~ msgstr[0] "صديقتكِ"
+#~ msgstr[1] "صديقتكِ"
+#~ msgstr[2] "صديقتيكِ"
+#~ msgstr[3] "صديقاتكِ"
+#~ msgstr[4] "صديقاتكِ"
+#~ msgstr[5] "صديقاتكِ"
+
+#~ msgid "object_friend_singular_male_subject_you_male"
+#~ msgid_plural "object_friend_plural_male_subject_you_male"
+#~ msgstr[0] "صديقكَ"
+#~ msgstr[1] "صديقكَ"
+#~ msgstr[2] "صديقيكَ"
+#~ msgstr[3] "أصدقائكم"
+#~ msgstr[4] "أصدقائكم"
+#~ msgstr[5] "أصدقائكم"
+
+#~ msgid "object_friend_singular_female_subject_you_male"
+#~ msgid_plural "object_friend_plural_female_subject_you_male"
+#~ msgstr[0] "صديقتكَ"
+#~ msgstr[1] "صديقتكَ"
+#~ msgstr[2] "صديقتيكَ"
+#~ msgstr[3] "صديقاتكَ"
+#~ msgstr[4] "صديقاتكَ"
+#~ msgstr[5] "صديقاتكَ"
+
+#~ msgid "object_friend_singular_male_subject_you_female"
+#~ msgid_plural "object_friend_plural_male_subject_you_female"
+#~ msgstr[0] "صديقكِ"
+#~ msgstr[1] "صديقكِ"
+#~ msgstr[2] "صديقيكِ"
+#~ msgstr[3] "أصدقائكِ"
+#~ msgstr[4] "أصدقائكِ"
+#~ msgstr[5] "أصدقائكِ"
+
+#~ msgid "verb_saw_object_is_indirect?"
+#~ msgstr "0"
+
+#~ msgid "verb_saw_object_preposition_has_space"
+#~ msgstr "0"
+
+#~ msgid "verb_like_subject_singular_you_male_object_male"
+#~ msgid_plural "verb_like_subject_plural_you_male_object_male"
+#~ msgstr[0] "معجب"
+#~ msgstr[1] "معجب"
+#~ msgstr[2] "معجبان"
+#~ msgstr[3] "معجبون"
+#~ msgstr[4] "معجبون"
+#~ msgstr[5] "معجبون"
+
+#~ msgid "verb_like_subject_singular_you_male_object_female"
+#~ msgid_plural "verb_like_subject_plural_you_male_object_female"
+#~ msgstr[0] "معجب"
+#~ msgstr[1] "معجب"
+#~ msgstr[2] "معجبان"
+#~ msgstr[3] "معجبون"
+#~ msgstr[4] "معجبون"
+#~ msgstr[5] "معجبون"
+
+#~ msgid "object_activity_singular_subject_female_viewer_you_female"
+#~ msgid_plural "object_activity_plural_subject_female_viewer_you_female"
+#~ msgstr[0] "نشاط %people"
+#~ msgstr[1] "نشاط %people"
+#~ msgstr[2] "نشاطي %people"
+#~ msgstr[3] "نشاطات %people"
+#~ msgstr[4] "نشاطات %people"
+#~ msgstr[5] "نشاطات %people"
+
+#~ msgid "object_activity_singular_subject_female_viewer_you_male"
+#~ msgid_plural "object_activity_plural_subject_female_viewer_you_male"
+#~ msgstr[0] "نشاط %people"
+#~ msgstr[1] "نشاط %people"
+#~ msgstr[2] "نشاطي %people"
+#~ msgstr[3] "نشاطات %people"
+#~ msgstr[4] "نشاطات %people"
+#~ msgstr[5] "نشاطات %people"
+
+#~ msgid "object_activity_singular_subject_male_viewer_you_male"
+#~ msgid_plural "object_activity_plural_subject_male"
+#~ msgstr[0] "نشاط %people"
+#~ msgstr[1] "نشاط %people"
+#~ msgstr[2] "نشاطي %people"
+#~ msgstr[3] "نشاطات %people"
+#~ msgstr[4] "نشاطات %people"
+#~ msgstr[5] "نشاطات %people"
+
+#~ msgid "object_activity_singular_subject_male_viewer_you_female"
+#~ msgid_plural "object_activity_plural_subject_male"
+#~ msgstr[0] "نشاط %people"
+#~ msgstr[1] "نشاط %people"
+#~ msgstr[2] "نشاطي %people"
+#~ msgstr[3] "نشاطات %people"
+#~ msgstr[4] "نشاطات %people"
+#~ msgstr[5] "نشاطات %people"
+
+#~ msgid "object_friend_singular_subject_female_viewer_you_female"
+#~ msgid_plural "object_friend_plural_subject_female_viewer_you_female"
+#~ msgstr[0] "صديقةً"
+#~ msgstr[1] "صديقةً"
+#~ msgstr[2] "صديقتين"
+#~ msgstr[3] "صديقات"
+#~ msgstr[4] "صديقات"
+#~ msgstr[5] "صديقات"
+
+#~ msgid "object_friend_singular_subject_male_viewer_you_male"
+#~ msgid_plural "object_friend_plural_subject_male"
+#~ msgstr[0] "صديقًا"
+#~ msgstr[1] "صديقًا"
+#~ msgstr[2] "صديقين"
+#~ msgstr[3] "أصدقاء"
+#~ msgstr[4] "أصدقاء"
+#~ msgstr[5] "أصدقاء"
+
+#~ msgid "object_friend_singular_subject_male_viewer_you_female"
+#~ msgid_plural "object_friend_plural_subject_male"
+#~ msgstr[0] "صديقًا"
+#~ msgstr[1] "صديقًا"
+#~ msgstr[2] "صديقين"
+#~ msgstr[3] "أصدقاء"
+#~ msgstr[4] "أصدقاء"
+#~ msgstr[5] "أصدقاء"
+
+#~ msgid "object_friend_singular_subject_female_viewer_you_female_has_object"
+#~ msgid_plural "object_friend_plural_subject_female_viewer_you_female_has_object"
+#~ msgstr[0] "صديقةً ل%people"
+#~ msgstr[1] "صديقةً ل%people"
+#~ msgstr[2] "صديقتين ل%people"
+#~ msgstr[3] "صديقات ل%people"
+#~ msgstr[4] "صديقات ل%people"
+#~ msgstr[5] "صديقات ل%people"
+
+#~ msgid "object_friend_singular_subject_male_viewer_you_female_has_object"
+#~ msgid_plural "object_friend_plural_subject_male"
+#~ msgstr[0] "صديقًا ل%people"
+#~ msgstr[1] "صديقًا ل%people"
+#~ msgstr[2] "صديقين ل%people"
+#~ msgstr[3] "أصدقاء ل%people"
+#~ msgstr[4] "أصدقاء ل%people"
+#~ msgstr[5] "أصدقاء ل%people"
+
+#~ msgid "what?"
+#~ msgstr "ماذا؟"
+
+#~ msgid "nplurals"
+#~ msgstr "6"
+
+#~ msgid "object_activity_singular_subject_you_female_viewer_you_male"
+#~ msgid_plural "object_activity_plural_subject_you_female_viewer_you_male"
+#~ msgstr[0] "نشاط"
+#~ msgstr[1] "نشاط %d"
+#~ msgstr[2] "نشاطي %d"
+#~ msgstr[3] "نشاطات %d"
+#~ msgstr[4] "نشاطات %d"
+#~ msgstr[5] "نشاطات %d"
+
+#~ msgid "people_all_invisible_template"
+#~ msgstr "%people_visible و%people_invisible %action %object"
+
+#~ msgid "hey!"
+#~ msgstr "مرحبًا"
+
+#~ msgid "NZL"
+#~ msgstr "نزّل!"
+
+#~ msgid "Home"
+#~ msgstr "الرئيسية"
+
+#~ msgid "Register a new application"
+#~ msgstr "تسجيل تطبيق جديد"
+
+#~ msgid ""
+#~ "Apps make use of our API to build new features on top of our platform. By "
+#~ "using our API you can easily build rich applications that provide users "
+#~ "with new ways to utilize their data."
+#~ msgstr ""
+#~ "تستفيد التطبيقات من الواجهة البرمجية التي نقدّمها للمطورين بحيث يمكنهم "
+#~ "إنشاء مزايا جديدة مبنية على منصتنا. يمكنك باستخدامك لواجهتنا البرمجية أن "
+#~ "تبني بسهولة تطبيقات غنية تتيح للمستخدمين أساليب جديدة للاستفادة من "
+#~ "بياناتهم."
+
+#~ msgid "A few things to keep in mind..."
+#~ msgstr "قبل البدء بتسجيل التطبيق، تذكر..."
+
+#~ msgid "Any user can use your app."
+#~ msgstr "بإمكان أي مستخدم أن يستخدم تطبيقك."
+
+#~ msgid "Users can remove you app's access to their data at any time."
+#~ msgstr "بإمكان المستخدمين حذف وصول التطبيق إلى بياناتهم متى شاؤوا."
+
+#~ msgid ""
+#~ "We may suspend or permanently remove your application when we think it "
+#~ "violates our API terms of use."
+#~ msgstr ""
+#~ "بإمكاننا تعليق تطبيقك أو حذفه نهائيًا إذا رأينا أنه ينتهك شروط استخدام "
+#~ "واجهتنا البرمجية."
+
+#~ msgid ""
+#~ "Frequent violations of our API Terms of Use by your application may lead "
+#~ "to the suspension of your account"
+#~ msgstr ""
+#~ "الانتهاكات المتكررة لشروط استخدام واجهتنا البرمجية قد تعرضك لتعليق حسابك."
+
+#~ msgid "Next"
+#~ msgstr "التالي"
+
+#~ msgid "right"
+#~ msgstr "left"
+
+#~ msgid "%d window"
+#~ msgid_plural "%d windows"
+#~ msgstr[0] "ولا نافذة"
+#~ msgstr[1] "نافذة واحدة"
+#~ msgstr[2] "نافذتان"
+#~ msgstr[3] "%d نوافذ"
+#~ msgstr[4] "%d نافذةً"
+#~ msgstr[5] "%d نافذة"
+
+#~ msgid "ltr"
+#~ msgstr "rtl"
+
+#~ msgid "Log in"
+#~ msgstr "سجل الدخول"
+
+#~ msgid "Username"
+#~ msgstr "اسم المستخدم"
+
+#~ msgid "Password"
+#~ msgstr "كلمة المرور"
+
+#~ msgid "Sign up"
+#~ msgstr "اشترك"
+
+#~ msgid "First name"
+#~ msgstr "الاسم الأول"
+
+#~ msgid "Last name"
+#~ msgstr "الاسم الأخير"
+
+#~ msgid "Email"
+#~ msgstr "عنوان البريد الإلكتروني"
+
+#~ msgid "Gender"
+#~ msgstr "الجنس"
+
+#~ msgid "Male"
+#~ msgstr "ذكر"
+
+#~ msgid "Female"
+#~ msgstr "أنثى"
+
+#~ msgid "Birthday (YYYY-mm-dd"
+#~ msgstr "يوم ميلادك (بصيغة YYYY-mm-dd)"
+
+#~ msgid "First name:"
+#~ msgstr "الاسم الأول:"
+
+#~ msgid "Last name:"
+#~ msgstr "الاسم الأخير:"
+
+#~ msgid "Username:"
+#~ msgstr "اسم المستخدم:"
+
+#~ msgid "Email:"
+#~ msgstr "عنوان البريد الإلكتروني:"
+
+#~ msgid "Born:"
+#~ msgstr "وُلد في:"
+
+#~ msgid "Height:"
+#~ msgstr "الطول:"
+
+#~ msgid "Gender:"
+#~ msgstr "الجنس:"
+
+#~ msgid "Confirmed?"
+#~ msgstr "تُحقّق من الحساب؟"
+
+#~ msgid "Yes"
+#~ msgstr "نعم"
+
+#~ msgid "No"
+#~ msgstr "لا"
+
+#~ msgid "direction:ltr;"
+#~ msgstr "direction:rtl;"
